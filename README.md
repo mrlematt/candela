@@ -4,4 +4,7 @@ created first in 2016 for Fete des Lumières played in Vienne.
 
 2016 version included various Max Fo Live devices, sending midi to drum racks and other max for live devices (to drive a DMX program).
 
-2017 version is going (hopefully) to be a full max/msp patch, at least for all the midi sequencing, because the abuse of max for live devices was a bit unstable-ish.
+2017 version has been improved. some bugs removed. It stills relies heavily on Ableton and MaxForLive, sending midinotes to DMXis. 
+
+We aim to use Max for the sequencing part + Jitter matrices to send OSC commands to MadMapper, so we can use also video files to control dmx.
+
